@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MoGHenry
+- 👋 Hi, I’m Henry Qiu(Yueheng Qiu) @MoGHenry
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python, PyQt5
+- 🌱 I’m currently learning Python, Matlab, Web Development, Data Engineer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me moghenry0@gmail.com
+- 📫 How to reach me moghenry0@gmail.com, hqiu@albany.edu
 
 <!---
 MoGHenry/MoGHenry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Python, Web Development, and Data Analysts
 - 📫 How to reach me moghenry0@gmail.com, hqiu@albany.edu
-- My CSBS Diploma [eDiploma](https://cdn.discordapp.com/attachments/892827078800584745/1213544049475059732/1267393_eDiploma.pdf?ex=65f5dbf7&is=65e366f7&hm=76217da476a07d108c2f08f268fd8d25d8fa7225478d2a82883dbdadf1b970e5&)
+- My CSBS Diploma [eDiploma](https://www.michaelsutter.com/ediploma?fn=diplomastatuscheck&key=02000000f8df3011350f55560d5a0f22b4463b7448ff3135fa2653e944272a554bc928107d22448bbdf970f26694da643315810343e816b20d60a9755420f95ba3cd7a01)
 
 <!---
 MoGHenry/MoGHenry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
